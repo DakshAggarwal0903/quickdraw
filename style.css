@@ -1,0 +1,16 @@
+body{
+    background-color:cornflowerblue;
+}
+#score{
+    font-size: 20px;
+    margin-left:30px;
+}
+#timer{
+    float:right;
+    margin-right:30px;
+    font-size: 20px;
+}
+#stbd{
+    color: firebrick;
+    font-size: 20px;
+}
